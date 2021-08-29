@@ -20,14 +20,14 @@ You will have 40 seconds to answer 5 multiple choice questions about javascript.
 ## Credits
 My in-house tutor provided invaluable input and helped clean up what was previously a buggy mess by walking me through this line by line.
 Among the approximately 300 web pages and references I looked at, these were especially helpful, particularly the MDN documentation on the indexof() method, which saved me from my biggest headache:
-//https://codingnepal.medium.com/create-a-quiz-app-with-timer-using-html-css-javascript-f460087a88a1
-//https://stackoverflow.com/questions/45449106/how-to-make-a-ul-list-of-buttons-accessible/45491521
-// https://www.codingnepalweb.com/quiz-app-with-timer-javascript/
-// https://codepen.io/boopalan002/pen/yKZVGa
-// https://www.w3schools.com/js/js_quiz.asp
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
-// https://www.sitepoint.com/simple-javascript-quiz/
-// https://michael-karen.medium.com/how-to-save-high-scores-in-local-storage-7860baca9d68
-// https://www.w3schools.com/jsref/prop_style_display.asp
-// https://stackoverflow.com/questions/60370557/how-can-you-deduct-10-seconds-from-a-running-timer-in-javascript
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
+- https://codingnepal.medium.com/create-a-quiz-app-with-timer-using-html-css-javascript-f460087a88a1
+- https://stackoverflow.com/questions/45449106/how-to-make-a-ul-list-of-buttons-accessible/45491521
+- https://www.codingnepalweb.com/quiz-app-with-timer-javascript/
+- https://codepen.io/boopalan002/pen/yKZVGa
+- https://www.w3schools.com/js/js_quiz.asp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
+- https://www.sitepoint.com/simple-javascript-quiz/
+- https://michael-karen.medium.com/how-to-save-high-scores-in-local-storage-7860baca9d68
+- https://www.w3schools.com/jsref/prop_style_display.asp
+- https://stackoverflow.com/questions/60370557/how-can-you-deduct-10-seconds-from-a-running-timer-in-javascript
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
