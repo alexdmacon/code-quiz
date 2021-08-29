@@ -20,6 +20,13 @@ header {
     padding-top: 10px;
 }
 
+button {
+    padding: 10px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
 p {
     padding: 10px;
 }

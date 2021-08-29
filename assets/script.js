@@ -8,6 +8,7 @@
 // https://michael-karen.medium.com/how-to-save-high-scores-in-local-storage-7860baca9d68
 // https://www.w3schools.com/jsref/prop_style_display.asp
 // https://stackoverflow.com/questions/60370557/how-can-you-deduct-10-seconds-from-a-running-timer-in-javascript
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 
 
 // Arrays with questions, choices, and answer. Changed answers to indexes, which will make everything a lot easier when checking answers using indexOf.
